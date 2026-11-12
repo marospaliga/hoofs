@@ -1,0 +1,12 @@
+{
+  "name": "hoofs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Hoofs Lab — a deterministic test bed for applying Proof-of-Hoof mechanics to Bitcoin",
+  "license": "MIT",
+  "scripts": {
+    "sim": "node src/simulate.js",
+    "test": "node --test"
+  }
+}
